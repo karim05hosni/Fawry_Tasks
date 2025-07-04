@@ -1,0 +1,9 @@
+org\Fawry\Ecommerce\Ecommerce.class
+org\Fawry\Ecommerce\Views\cartView.class
+org\Fawry\Ecommerce\Services\customerServices.class
+org\Fawry\Ecommerce\Services\ShippingProductsImpl.class
+org\Fawry\Ecommerce\Entities\Cart.class
+org\Fawry\Ecommerce\Entities\Customer.class
+org\Fawry\Ecommerce\Services\Contracts\IShippingProducts.class
+org\Fawry\Ecommerce\Entities\Product.class
+org\Fawry\Ecommerce\Services\Shipping.class
