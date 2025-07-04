@@ -29,7 +29,6 @@ public class cartView {
 
     public boolean validationWarnings(List<String> warnings){
         if (warnings.isEmpty()) {
-            System.out.println("All products are valid.");
             return true;
         } else {
             System.out.println("Errors:");
